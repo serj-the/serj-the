@@ -4,6 +4,21 @@
 
 I create video and motion graphics, and build tools that make production easier. Around five years of editing experience, working with DaVinci Resolve, Premiere Pro, Fusion and After Effects.
 
+## Selected motion work
+
+<table>
+<tr>
+<td width="50%"><a href="https://www.behance.net/gallery/238627153/Clean-intro-design"><img src="https://mir-s3-cdn-cf.behance.net/projects/max_808_webp/217d59238627153.Y3JvcCwyNDcyLDE5MzQsNjg1LDExMA.png" alt="Clean intro design" width="420"></a></td>
+<td width="50%"><a href="https://www.behance.net/gallery/238626397/Designers-forum-motion-design"><img src="https://mir-s3-cdn-cf.behance.net/projects/max_808_webp/6391ed238626397.Y3JvcCwxMzgwLDEwODAsMzc5LDA.png" alt="Designers forum motion design" width="420"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.behance.net/gallery/238627153/Clean-intro-design"><strong>Clean intro design</strong></a><br>Intro & motion graphics</td>
+<td><a href="https://www.behance.net/gallery/238626397/Designers-forum-motion-design"><strong>Designers forum motion design</strong></a><br>Motion graphics for a design forum</td>
+</tr>
+</table>
+
+[More work on Behance](https://www.behance.net/dslrnt)
+
 ## Featured project — ScoreClicker
 
 A personal tennis scorekeeping app for iPhone and Apple Watch. Visual design, procedural animation and AI-assisted development in one project.

@@ -1,4 +1,4 @@
-# Sergey Khlopow
+# Sergei Khlopov
 
 ### Video editing · Motion graphics · Creative tools
 

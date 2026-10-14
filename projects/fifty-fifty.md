@@ -21,11 +21,11 @@ These are unretouched captures from the iPhone simulator, not Figma mockups. The
 <table>
 <tr>
 <td><img src="../assets/fifty-fifty/menu.png" width="260" alt="Menu and level carousel"><br><strong>One shape, one continuous flow.</strong><br>A custom mode selector keeps the menu focused.</td>
-<td><img src="../assets/fifty-fifty/procedural-play.png" width="260" alt="Procedural shape with a PERFECT streak"><br><strong>A quiet playfield.</strong><br>The streak moves into the header while the next shape takes focus.</td>
+<td><img src="../assets/fifty-fifty/IMG_5014.PNG" width="260" alt="Procedural shape with a PERFECT streak"><br><strong>A quiet playfield.</strong><br>The streak moves into the header while the next shape takes focus.</td>
 </tr>
 <tr>
 <td><img src="../assets/fifty-fifty/split-result.png" width="260" alt="Two coloured halves with an accuracy score"><br><strong>Precision made visible.</strong><br>Colour and area percentages explain the result.</td>
-<td><img src="../assets/fifty-fifty/perfect-streak.png" width="260" alt="Second consecutive PERFECT result"><br><strong>Momentum, without clutter.</strong><br>A compact multiplier marks consecutive PERFECT cuts.</td>
+<td><img src="../assets/fifty-fifty/perfect-streak.PNG" width="260" alt="Second consecutive PERFECT result"><br><strong>Momentum, without clutter.</strong><br>A compact multiplier marks consecutive PERFECT cuts.</td>
 </tr>
 </table>
 

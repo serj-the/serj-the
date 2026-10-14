@@ -25,7 +25,7 @@ These are unretouched captures from the iPhone simulator, not Figma mockups. The
 </tr>
 <tr>
 <td><img src="../assets/fifty-fifty/split-result.png" width="260" alt="Two coloured halves with an accuracy score"><br><strong>Precision made visible.</strong><br>Colour and area percentages explain the result.</td>
-<td><img src="../assets/fifty-fifty/perfect-streak.PNG" width="260" alt="Second consecutive PERFECT result"><br><strong>Momentum, without clutter.</strong><br>A compact multiplier marks consecutive PERFECT cuts.</td>
+<td><img src="../assets/fifty-fifty/perfect-streak.png.PNG" width="260" alt="Second consecutive PERFECT result"><br><strong>Momentum, without clutter.</strong><br>A compact multiplier marks consecutive PERFECT cuts.</td>
 </tr>
 </table>
 

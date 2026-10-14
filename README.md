@@ -30,7 +30,7 @@ Motion makes precision tangible: shapes carry through menu transitions, split ha
 <table>
 <tr>
 <td><img src="assets/fifty-fifty/menu.png" width="220" alt="50/50 menu with a shape carousel and Chill/Challenge selector"></td>
-<td><img src="assets/fifty-fifty/procedural-play.png" width="220" alt="A procedural silhouette during a two-cut PERFECT streak"></td>
+<td><img src="assets/fifty-fifty/IMG_5014.PNG" width="220" alt="A procedural silhouette during a cutting"></td>
 <td><img src="assets/fifty-fifty/split-result.png" width="220" alt="A completed split with cyan and pink halves and 99.37 percent accuracy"></td>
 </tr>
 </table>

@@ -16,12 +16,12 @@ The prototype includes relaxed and timed modes, varied procedural silhouettes, o
 
 ## Screens from the running prototype
 
-These are unretouched captures from the iPhone simulator, not Figma mockups. The displayed scores are actual results from the capture session.
+Screenshots from the running app, showing the menu, gameplay and scoring feedback.
 
 <table>
 <tr>
 <td><img src="../assets/fifty-fifty/menu.png" width="260" alt="Menu and level carousel"><br><strong>One shape, one continuous flow.</strong><br>A custom mode selector keeps the menu focused.</td>
-<td><img src="../assets/fifty-fifty/IMG_5014.PNG" width="260" alt="Procedural shape with a PERFECT streak"><br><strong>A quiet playfield.</strong><br>The streak moves into the header while the next shape takes focus.</td>
+<td><img src="../assets/fifty-fifty/IMG_5014.PNG" width="260" alt="Procedural shape with a swipe guide"><br><strong>A quiet playfield.</strong><br>A diagonal guide shows the intended cut, with run accuracy displayed above.</td>
 </tr>
 <tr>
 <td><img src="../assets/fifty-fifty/split-result.png" width="260" alt="Two coloured halves with an accuracy score"><br><strong>Precision made visible.</strong><br>Colour and area percentages explain the result.</td>

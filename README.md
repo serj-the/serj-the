@@ -12,8 +12,8 @@ I create video and motion graphics, and build tools that make production easier.
 <td width="50%"><a href="https://www.behance.net/gallery/238627153/Clean-intro-design"><img src="https://mir-s3-cdn-cf.behance.net/projects/max_808_webp/217d59238627153.Y3JvcCwyNDcyLDE5MzQsNjg1LDExMA.png" alt="Clean intro design" width="420"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.behance.net/gallery/238627153/Clean-intro-design"><strong>Clean intro design</strong></a><br>Intro & motion graphics</td>
 <td><a href="https://www.behance.net/gallery/238626397/Designers-forum-motion-design"><strong>Designers forum motion design</strong></a><br>Motion graphics for a design forum</td>
+<td><a href="https://www.behance.net/gallery/238627153/Clean-intro-design"><strong>Clean intro design</strong></a><br>Intro & motion graphics</td>
 </tr>
 </table>
 
@@ -21,16 +21,14 @@ I create video and motion graphics, and build tools that make production easier.
 
 ## Featured project — 50/50
 
-A native iPhone game about splitting a shape into two equal areas with one swipe. I designed the concept, visual identity and interaction flow, and built a working SwiftUI + SpriteKit prototype with AI coding assistance.
-
-Motion makes precision tangible: shapes carry through menu transitions, split halves fly apart, and PERFECT streaks combine animated feedback, sound and haptics. Procedural silhouettes, occasional alphabet shapes and QR duels add variety to a minimal interface.
+An iPhone game about splitting a shape into two equal areas with one swipe. I created the concept, visual design and animated interactions, then built a working prototype with AI coding assistance.
 
 **In development · Game concept · UI & motion design · AI-assisted prototyping**
 
 <table>
 <tr>
 <td><img src="assets/fifty-fifty/menu.png" width="220" alt="50/50 menu with a shape carousel and Chill/Challenge selector"></td>
-<td><img src="assets/fifty-fifty/IMG_5014.PNG" width="220" alt="A procedural silhouette during a cutting"></td>
+<td><img src="assets/fifty-fifty/IMG_5014.PNG" width="220" alt="A procedural shape with a swipe guide during gameplay"></td>
 <td><img src="assets/fifty-fifty/split-result.png" width="220" alt="A completed split with cyan and pink halves and 99.37 percent accuracy"></td>
 </tr>
 </table>

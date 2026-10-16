@@ -20,9 +20,9 @@ The prototype includes relaxed and timed modes, varied procedural silhouettes, o
 
 A 15-second recording from the running app: menu transitions, cutting shapes and PERFECT feedback.
 
-<p align="center"><a href="../assets/fifty-fifty/gameplay.mp4"><img src="../assets/fifty-fifty/gameplay.jpg" width="320" alt="50/50 gameplay: slicing shapes and PERFECT feedback"></a></p>
+<p align="center"><a href="../assets/fifty-fifty/gameplay.mp4"><img src="../assets/fifty-fifty/gameplay.gif" width="320" alt="50/50 gameplay: slicing shapes and PERFECT feedback"></a></p>
 
-[▶ Watch gameplay (MP4)](../assets/fifty-fifty/gameplay.mp4)
+[Download gameplay recording (MP4)](../assets/fifty-fifty/gameplay.mp4)
 
 ## Screens from the running prototype
 

@@ -4,7 +4,9 @@
 
 Designed and built from scratch as a reusable promotional sequence: animated typography, a moving border, a fluid colour background, a logo reveal and a replaceable media area.
 
-![Typography sequence](../assets/motion/template.gif)
+[![Typography sequence — watch video](../assets/motion/template.jpg)](../assets/motion/template.mp4)
+
+[▶ Watch typography animation (MP4)](../assets/motion/template.mp4)
 
 *Preview: the opening 7.5 seconds of the typography sequence.*
 
@@ -24,11 +26,11 @@ The template documentation specifies After Effects CC 2020 or newer, no external
 
 A four-second intro for my scorekeeping app, created using a Fraunhofer diffraction simulation. I used the simulation to develop a luminous, spectral treatment for the app identity.
 
-![Procedural diffraction intro](../assets/motion/diffraction-intro.gif)
+[![Procedural diffraction intro — watch video](../assets/motion/diffraction-intro.jpg)](../assets/motion/diffraction-intro.mp4)
 
 The animation connects my interest in procedural graphics with interface and motion design.
 
-[Original intro video](../assets/motion/diffraction-intro.mov) · [ScoreClicker project](https://github.com/serj-the/scoreclicker-showcase)
+[▶ Watch intro (MP4)](../assets/motion/diffraction-intro.mp4) · [ScoreClicker project](https://github.com/serj-the/scoreclicker-showcase)
 
 ---
 

@@ -24,8 +24,8 @@ I create video and motion graphics, and build tools that make production easier.
 A reusable After Effects promo template built from scratch, and an app intro created using a diffraction simulation.
 
 <table><tr>
-<td width="50%"><a href="projects/motion-experiments.md"><img src="assets/motion/template.gif" alt="Animated typography in a reusable After Effects promo template" width="420"></a></td>
-<td width="50%"><a href="projects/motion-experiments.md"><img src="assets/motion/diffraction-intro.gif" alt="ScoreClicker procedural diffraction intro" width="420"></a></td>
+<td width="50%"><a href="assets/motion/template.mp4"><img src="assets/motion/template.jpg" alt="Watch video: animated typography in a reusable After Effects promo template" width="420"></a></td>
+<td width="50%"><a href="assets/motion/diffraction-intro.mp4"><img src="assets/motion/diffraction-intro.jpg" alt="ScoreClicker procedural diffraction intro" width="420"></a></td>
 </tr><tr><td><strong>After Effects promo template</strong></td><td><strong>Procedural app intro</strong></td></tr></table>
 
 [Process and project details →](projects/motion-experiments.md)
@@ -63,6 +63,17 @@ My editing automation tool for Adobe Premiere Pro, available on aescripts. Origi
 In my own workflow, processing two hours of footage from a text brief takes about **30–60 minutes instead of 3 hours**.
 
 50+ copies distributed, including free copies.
+
+<table>
+<tr>
+<td width="50%"><a href="https://vimeo.com/1078972595"><img src="assets/avtic-auto/demo-first.jpg" alt="Watch Avtic Auto editing demo on Vimeo" width="420"></a></td>
+<td width="50%"><a href="https://vimeo.com/1078973934"><img src="assets/avtic-auto/demo-second.jpg" alt="Watch Avtic Auto workflow demo on Vimeo" width="420"></a></td>
+</tr>
+<tr>
+<td><a href="https://vimeo.com/1078972595">▶ Watch editing demo</a></td>
+<td><a href="https://vimeo.com/1078973934">▶ Watch workflow demo</a></td>
+</tr>
+</table>
 
 [Product & demos](https://aescripts.com/avtic-auto/)
 

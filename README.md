@@ -4,18 +4,16 @@
 
 I create video and motion graphics, and build tools that make production easier. Editing and motion design experience since 2020, working with DaVinci Resolve, Premiere Pro, Fusion and After Effects.
 
+This is a selection of my work. **More editing, motion graphics and intro examples are available on request.**
+
 ## Selected motion work
 
-<table>
-<tr>
-<td width="50%"><a href="https://www.behance.net/gallery/238626397/Designers-forum-motion-design"><img src="https://mir-s3-cdn-cf.behance.net/projects/max_808_webp/6391ed238626397.Y3JvcCwxMzgwLDEwODAsMzc5LDA.png" alt="Designers forum motion design" width="420"></a></td>
-<td width="50%"><a href="https://www.behance.net/gallery/238627153/Clean-intro-design"><img src="https://mir-s3-cdn-cf.behance.net/projects/max_808_webp/217d59238627153.Y3JvcCwyNDcyLDE5MzQsNjg1LDExMA.png" alt="Clean intro design" width="420"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.behance.net/gallery/238626397/Designers-forum-motion-design"><strong>Designers forum motion design</strong></a><br>Motion graphics for a design forum</td>
-<td><a href="https://www.behance.net/gallery/238627153/Clean-intro-design"><strong>Clean intro design</strong></a><br>Intro & motion graphics</td>
-</tr>
-</table>
+<p>
+<a href="https://www.behance.net/gallery/238626397/Designers-forum-motion-design"><img src="https://mir-s3-cdn-cf.behance.net/projects/max_808_webp/6391ed238626397.Y3JvcCwxMzgwLDEwODAsMzc5LDA.png" alt="Designers forum motion design" width="45%"></a>
+<a href="https://www.behance.net/gallery/238627153/Clean-intro-design"><img src="https://mir-s3-cdn-cf.behance.net/projects/max_808_webp/217d59238627153.Y3JvcCwyNDcyLDE5MzQsNjg1LDExMA.png" alt="Clean intro design" width="45%"></a>
+</p>
+
+<p><a href="https://www.behance.net/gallery/238626397/Designers-forum-motion-design"><strong>Designers forum motion design</strong></a><br>Motion graphics for a design forum · <a href="https://www.behance.net/gallery/238627153/Clean-intro-design"><strong>Clean intro design</strong></a><br>Intro & motion graphics</p>
 
 [More work on Behance](https://www.behance.net/dslrnt)
 
@@ -23,10 +21,12 @@ I create video and motion graphics, and build tools that make production easier.
 
 A reusable After Effects promo template built from scratch, and an app intro created using a diffraction simulation.
 
-<table><tr>
-<td width="50%"><a href="projects/motion-experiments.md"><img src="assets/motion/template.gif" alt="Animated typography in a reusable After Effects promo template" width="420"></a></td>
-<td width="50%"><a href="projects/motion-experiments.md"><img src="assets/motion/diffraction-intro.gif" alt="ScoreClicker procedural diffraction intro" width="420"></a></td>
-</tr><tr><td><strong>After Effects promo template</strong></td><td><strong>Procedural app intro</strong></td></tr></table>
+<p>
+<a href="projects/motion-experiments.md"><img src="assets/motion/template.gif" alt="Animated typography in a reusable After Effects promo template" width="45%"></a>
+<a href="projects/motion-experiments.md"><img src="assets/motion/diffraction-intro.gif" alt="ScoreClicker procedural diffraction intro" width="45%"></a>
+</p>
+
+<p><strong>After Effects promo template</strong> · <strong>Procedural app intro</strong></p>
 
 [Process and project details →](projects/motion-experiments.md)
 
@@ -36,13 +36,11 @@ An iPhone game about splitting a shape into two equal areas with one swipe. An i
 
 **In development · Game concept · UI & motion design · AI-assisted prototyping**
 
-<table>
-<tr>
-<td><img src="assets/fifty-fifty/menu.png" width="220" alt="50/50 menu with a shape carousel and Chill/Challenge selector"></td>
-<td><img src="assets/fifty-fifty/IMG_5014.PNG" width="220" alt="A procedural shape with a swipe guide during gameplay"></td>
-<td><img src="assets/fifty-fifty/split-result.png" width="220" alt="A completed split with cyan and pink halves and 99.37 percent accuracy"></td>
-</tr>
-</table>
+<p>
+<img src="assets/fifty-fifty/menu.png" width="30%" alt="50/50 menu with a shape carousel and Chill/Challenge selector">
+<img src="assets/fifty-fifty/IMG_5014.PNG" width="30%" alt="A procedural shape with a swipe guide during gameplay">
+<img src="assets/fifty-fifty/split-result.png" width="30%" alt="A completed split with cyan and pink halves and 99.37 percent accuracy">
+</p>
 
 **[Explore the case study & gameplay →](projects/fifty-fifty.md)**
 
@@ -64,19 +62,15 @@ In my own workflow, processing two hours of footage from a text brief takes abou
 
 50+ copies distributed, including free copies.
 
-<table>
-<tr>
-<td width="50%"><a href="https://vimeo.com/1078972595"><img src="assets/avtic-auto/editing-demo.gif" alt="Watch Avtic Auto editing demo on Vimeo" width="420"></a></td>
-<td width="50%"><a href="https://vimeo.com/1078973934"><img src="assets/avtic-auto/interface-demo.gif" alt="Avtic interface: text brief to formatted timecodes" width="420"></a></td>
-</tr>
-<tr>
-<td><a href="https://vimeo.com/1078972595">▶ Watch editing demo</a></td>
-<td><a href="https://vimeo.com/1078973934">▶ Watch workflow demo</a></td>
-</tr>
-</table>
+<p>
+<a href="https://vimeo.com/1078972595"><img src="assets/avtic-auto/editing-demo.gif" alt="Watch Avtic Auto editing demo on Vimeo" width="45%"></a>
+<a href="https://vimeo.com/1078973934"><img src="assets/avtic-auto/interface-demo.gif" alt="Avtic interface: text brief to formatted timecodes" width="45%"></a>
+</p>
+
+<p><a href="https://vimeo.com/1078972595">▶ Watch editing demo</a> · <a href="https://vimeo.com/1078973934">▶ Watch workflow demo</a></p>
 
 [Product & demos](https://aescripts.com/avtic-auto/)
 
 ---
 
-[Video & motion portfolio on Behance](https://www.behance.net/dslrnt)
+[More work on Behance](https://www.behance.net/dslrnt) · [Get in touch for additional examples](mailto:dslrnt@icloud.com)

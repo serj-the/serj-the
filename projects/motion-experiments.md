@@ -32,6 +32,8 @@ The animation connects my interest in procedural graphics with interface and mot
 
 [Download intro (MP4)](../assets/motion/diffraction-intro.mp4) · [ScoreClicker project](https://github.com/serj-the/scoreclicker-showcase)
 
+More motion graphics, intros and editing examples are available [on request](mailto:dslrnt@icloud.com).
+
 ---
 
 [Back to profile](../README.md)

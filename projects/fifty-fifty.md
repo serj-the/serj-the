@@ -28,15 +28,12 @@ A 15-second recording from the running app: menu transitions, cutting shapes and
 
 Screenshots from the running app, showing the menu, gameplay and scoring feedback.
 
-<table>
-<tr>
-<td><img src="../assets/fifty-fifty/menu.png" width="260" alt="Menu and level carousel"><br><strong>One shape, one continuous flow.</strong><br>A custom mode selector keeps the menu focused.</td>
-<td><img src="../assets/fifty-fifty/IMG_5014.PNG" width="260" alt="Procedural shape with a swipe guide"><br><strong>A quiet playfield.</strong><br>A diagonal guide shows the intended cut, with run accuracy displayed above.</td>
-</tr>
-<tr>
-<td><img src="../assets/fifty-fifty/split-result.png" width="260" alt="Two coloured halves with an accuracy score"><br><strong>Precision made visible.</strong><br>Colour and area percentages explain the result.</td>
-<td><img src="../assets/fifty-fifty/perfect-streak.png.PNG" width="260" alt="Second consecutive PERFECT result"><br><strong>Momentum, without clutter.</strong></td>
-</tr>
-</table>
+<p><img src="../assets/fifty-fifty/menu.png" width="260" alt="Menu and level carousel"><br><strong>One shape, one continuous flow.</strong><br>A custom mode selector keeps the menu focused.</p>
+
+<p><img src="../assets/fifty-fifty/IMG_5014.PNG" width="260" alt="Procedural shape with a swipe guide"><br><strong>A quiet playfield.</strong><br>A diagonal guide shows the intended cut, with run accuracy displayed above.</p>
+
+<p><img src="../assets/fifty-fifty/split-result.png" width="260" alt="Two coloured halves with an accuracy score"><br><strong>Precision made visible.</strong><br>Colour and area percentages explain the result.</p>
+
+<p><img src="../assets/fifty-fifty/perfect-streak.png.PNG" width="260" alt="Second consecutive PERFECT result"><br><strong>Momentum, without clutter.</strong></p>
 
 [Back to profile](../README.md)

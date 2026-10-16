@@ -42,6 +42,10 @@ An iPhone game about splitting a shape into two equal areas with one swipe. An i
 <img src="assets/fifty-fifty/split-result.png" width="30%" alt="A completed split with cyan and pink halves and 99.37 percent accuracy">
 </p>
 
+<p align="center"><a href="projects/fifty-fifty.md"><img src="assets/fifty-fifty/gameplay-full.gif" width="300" alt="50/50 gameplay: animated menu, slicing shapes and scoring feedback"></a></p>
+
+*Gameplay from the working prototype.*
+
 **[Explore the case study & gameplay →](projects/fifty-fifty.md)**
 
 ## Featured project — ScoreClicker

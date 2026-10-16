@@ -9,7 +9,7 @@ This is a selection of my work. **More editing, motion graphics and intro exampl
 ## Selected motion work
 
 <p>
-<a href="https://www.behance.net/gallery/238626397/Designers-forum-motion-design"><img src="assets/behance/designers-forum.gif" alt="Designers forum motion design — animated excerpt" width="45%"></a>
+<a href="https://www.behance.net/gallery/238626397/Designers-forum-motion-design"><img src="assets/behance/designers-forum.gif" alt="Designers forum motion design — full intro" width="45%"></a>
 <a href="https://www.behance.net/gallery/238627153/Clean-intro-design"><img src="assets/behance/clean-intro.gif" alt="Clean intro design — animated preview" width="45%"></a>
 </p>
 

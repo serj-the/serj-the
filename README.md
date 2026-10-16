@@ -37,12 +37,10 @@ An iPhone game about splitting a shape into two equal areas with one swipe. An i
 **In development · Game concept · UI & motion design · AI-assisted prototyping**
 
 <p>
-<img src="assets/fifty-fifty/menu.png" width="30%" alt="50/50 menu with a shape carousel and Chill/Challenge selector">
+<a href="projects/fifty-fifty.md"><img src="assets/fifty-fifty/gameplay-full.gif" width="300" alt="50/50 gameplay: animated menu, slicing shapes and scoring feedback"></a>
 <img src="assets/fifty-fifty/IMG_5014.PNG" width="30%" alt="A procedural shape with a swipe guide during gameplay">
 <img src="assets/fifty-fifty/split-result.png" width="30%" alt="A completed split with cyan and pink halves and 99.37 percent accuracy">
 </p>
-
-<p align="center"><a href="projects/fifty-fifty.md"><img src="assets/fifty-fifty/gameplay-full.gif" width="300" alt="50/50 gameplay: animated menu, slicing shapes and scoring feedback"></a></p>
 
 *Gameplay from the working prototype.*
 

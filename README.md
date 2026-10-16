@@ -21,7 +21,7 @@ I create video and motion graphics, and build tools that make production easier.
 
 ## Featured project — 50/50
 
-An iPhone game about splitting a shape into two equal areas with one swipe. I created the concept, visual design and animated interactions, then built a working prototype with AI coding assistance.
+An iPhone game about splitting a shape into two equal areas with one swipe. An idea I’d wanted to build since my student days — finally brought to life through vibe coding. I created the concept, visual design and animated interactions, then built a working prototype with AI coding assistance.
 
 **In development · Game concept · UI & motion design · AI-assisted prototyping**
 
@@ -33,7 +33,7 @@ An iPhone game about splitting a shape into two equal areas with one swipe. I cr
 </tr>
 </table>
 
-**[Explore the case study →](projects/fifty-fifty.md)**
+**[Explore the case study & gameplay →](projects/fifty-fifty.md)**
 
 ## Featured project — ScoreClicker
 

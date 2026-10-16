@@ -2,7 +2,7 @@
 
 ### Video editing · Motion graphics · Creative tools
 
-I create video and motion graphics, and build tools that make production easier. Around five years of editing experience, working with DaVinci Resolve, Premiere Pro, Fusion and After Effects.
+I create video and motion graphics, and build tools that make production easier. Editing and motion design experience since 2020, working with DaVinci Resolve, Premiere Pro, Fusion and After Effects.
 
 ## Selected motion work
 
@@ -18,6 +18,17 @@ I create video and motion graphics, and build tools that make production easier.
 </table>
 
 [More work on Behance](https://www.behance.net/dslrnt)
+
+## Motion systems and procedural animation
+
+A reusable After Effects promo template built from scratch, and an app intro created using a diffraction simulation.
+
+<table><tr>
+<td width="50%"><a href="projects/motion-experiments.md"><img src="assets/motion/template.gif" alt="Animated typography in a reusable After Effects promo template" width="420"></a></td>
+<td width="50%"><a href="projects/motion-experiments.md"><img src="assets/motion/diffraction-intro.gif" alt="ScoreClicker procedural diffraction intro" width="420"></a></td>
+</tr><tr><td><strong>After Effects promo template</strong></td><td><strong>Procedural app intro</strong></td></tr></table>
+
+[Process and project details →](projects/motion-experiments.md)
 
 ## Featured project — 50/50
 
@@ -50,6 +61,8 @@ A personal tennis scorekeeping app for iPhone and Apple Watch. Visual design, pr
 My editing automation tool for Adobe Premiere Pro, available on aescripts. Originally built for my own workflow using AI coding assistance, with interface design created collaboratively.
 
 In my own workflow, processing two hours of footage from a text brief takes about **30–60 minutes instead of 3 hours**.
+
+50+ copies distributed, including free copies.
 
 [Product & demos](https://aescripts.com/avtic-auto/)
 

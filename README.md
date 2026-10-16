@@ -9,8 +9,8 @@ This is a selection of my work. **More editing, motion graphics and intro exampl
 ## Selected motion work
 
 <p>
-<a href="https://www.behance.net/gallery/238626397/Designers-forum-motion-design"><img src="https://mir-s3-cdn-cf.behance.net/projects/max_808_webp/6391ed238626397.Y3JvcCwxMzgwLDEwODAsMzc5LDA.png" alt="Designers forum motion design" width="45%"></a>
-<a href="https://www.behance.net/gallery/238627153/Clean-intro-design"><img src="https://mir-s3-cdn-cf.behance.net/projects/max_808_webp/217d59238627153.Y3JvcCwyNDcyLDE5MzQsNjg1LDExMA.png" alt="Clean intro design" width="45%"></a>
+<a href="https://www.behance.net/gallery/238626397/Designers-forum-motion-design"><img src="assets/behance/designers-forum.gif" alt="Designers forum motion design — animated excerpt" width="45%"></a>
+<a href="https://www.behance.net/gallery/238627153/Clean-intro-design"><img src="assets/behance/clean-intro.gif" alt="Clean intro design — animated preview" width="45%"></a>
 </p>
 
 <p><a href="https://www.behance.net/gallery/238626397/Designers-forum-motion-design"><strong>Designers forum motion design</strong></a><br>Motion graphics for a design forum · <a href="https://www.behance.net/gallery/238627153/Clean-intro-design"><strong>Clean intro design</strong></a><br>Intro & motion graphics</p>

@@ -50,7 +50,7 @@ An iPhone game about splitting a shape into two equal areas with one swipe. An i
 
 A personal tennis scorekeeping app for iPhone and Apple Watch. Visual design, procedural animation and AI-assisted development in one project.
 
-[![ScoreClicker on iPhone](https://raw.githubusercontent.com/serj-the/scoreclicker-showcase/main/assets/iphone-score.png)](https://github.com/serj-the/scoreclicker-showcase)
+[![ScoreClicker on iPhone](https://raw.githubusercontent.com/serj-the/scoreclicker-showcase/main/assets/iphone-score_2.png)](https://github.com/serj-the/scoreclicker-showcase)
 
 <p align="center"><a href="https://github.com/serj-the/scoreclicker-showcase"><img src="https://raw.githubusercontent.com/serj-the/scoreclicker-showcase/main/assets/watch-score.png" width="230" alt="ScoreClicker on Apple Watch"></a></p>
 
